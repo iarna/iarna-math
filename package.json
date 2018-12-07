@@ -28,5 +28,9 @@
   "description": "Math in easy to use english!",
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "@perl/qr": "^1.2.0",
+    "@perl/qw": "^1.0.1"
+  }
 }
